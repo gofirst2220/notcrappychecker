@@ -1,4 +1,4 @@
-package aviaapplo.luke.notcrappychecker.UI;
+package aviaapplo.luke.notcrappychecker.ui;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
