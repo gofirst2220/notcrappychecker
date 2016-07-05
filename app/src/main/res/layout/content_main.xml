@@ -33,7 +33,6 @@
         android:id="@+id/cardView"
         android:layout_width="0dp"
         android:layout_height="100dp"
-        app:cardPreventCornerOverlap="true"
         android:layout_gravity="fill_horizontal|top"
         android:layout_margin="0dp"
         android:textAlignment="center"
