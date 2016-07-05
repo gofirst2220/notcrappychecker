@@ -17,7 +17,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAlignment="center"
-
         android:id="@+id/textView3"
         android:textColor="@color/accent_material_light"
         tools:ignore="PrivateResource"
@@ -37,12 +36,12 @@
         app:cardPreventCornerOverlap="true"
         android:layout_gravity="fill_horizontal|top"
         android:layout_margin="0dp"
+        android:textAlignment="center"
         app:layout_constraintLeft_toLeftOf="@+id/content_main"
         app:layout_constraintTop_toTopOf="@+id/content_main"
         app:layout_constraintRight_toRightOf="@+id/content_main"
         app:layout_constraintBottom_toBottomOf="@+id/content_main"
-        app:layout_constraintVertical_bias="0.0"
-        android:textAlignment="center">
+        app:layout_constraintVertical_bias="0.0">
 
         <TextView
             android:text="@string/battery_is_charged"
